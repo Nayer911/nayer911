@@ -3,7 +3,7 @@
 
 ## 🌐 Socials:
 <a href="https://nayernadernabilmetrycv.on.drv.tw/www.nayercv.com/">
-    <img src="https://drive.google.com/file/d/1vgWqV6qHVyrwI8PIwNKytp0gneC40B_u/view?usp=drive_link" alt="CV" width="40" height="40" style="display: inline-block; vertical-align: middle;">
+    <img src="https://drive.google.com/drive-viewer/AKGpihaE2DHTtlkZxXXxFPcKwRznok6Itrp-vCWhWldnEGk2jjc5lcyhcyDozteW-A32hJx3vBNK99D5ixeCROKnoCdwmrzyBhgsrVQ=w1366-h376?auditContext=forDisplay" alt="CV" width="40" height="40" style="display: inline-block; vertical-align: middle;">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/nayernader911">
