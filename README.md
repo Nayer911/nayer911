@@ -3,7 +3,7 @@
 
 ## 🌐 Socials:
 <a href="https://nayer911.github.io/cv/">
-    <img src="https://nayer911.github.io/cv/photos/N2.png" alt="CV" width="40" height="40" style="display: inline-block; vertical-align: middle;">
+    <img src="https://nayer911.github.io/cv/photos/N.png" alt="CV" width="40" height="40" style="display: inline-block; vertical-align: middle;">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/nayernader911">
