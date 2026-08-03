@@ -2,8 +2,8 @@
 🔭 I’m currently working on deepening my knowledge in machine learning and web development.<br>👯 Looking to collaborate on AI, web apps, or experimental tech projects, contributing my programming expertise.<br>🤝 Seeking hands-on experience in cloud technologies and advanced machine learning frameworks like TensorFlow and PyTorch.<br>🌱 Currently learning advanced data analysis techniques and integrating machine learning models into production environments.<br>💬 Ask me about software engineering, full-stack development, and using Python, Java, and C for projects.<br>⚡ Fun fact: I’m a huge fan of experimental tech and enjoy pushing the boundaries of what’s possible with code!
 
 ## 🌐 Socials:
-<a href="https://nayernadernabilmetrycv.on.drv.tw/www.nayercv.com/">
-    <img src="https://drive.google.com/drive-viewer/AKGpihaE2DHTtlkZxXXxFPcKwRznok6Itrp-vCWhWldnEGk2jjc5lcyhcyDozteW-A32hJx3vBNK99D5ixeCROKnoCdwmrzyBhgsrVQ=w1366-h376?auditContext=forDisplay" alt="CV" width="40" height="40" style="display: inline-block; vertical-align: middle;">
+<a href="https://nayer911.github.io/cv/">
+    <img src="https://nayer911.github.io/cv/photos/N2.png" alt="CV" width="40" height="40" style="display: inline-block; vertical-align: middle;">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/nayernader911">
